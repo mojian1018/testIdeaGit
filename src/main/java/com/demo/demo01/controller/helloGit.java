@@ -1,5 +1,8 @@
 package com.demo.demo01.controller;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class helloGit {
 
 
@@ -14,7 +17,7 @@ public class helloGit {
     }
 
     public String master(){
-
+        List list=new ArrayList();
         return "";
     }
     //方法写的不错
