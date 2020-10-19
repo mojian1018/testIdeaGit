@@ -7,4 +7,9 @@ public class helloGit {
 
         return "index";
     }
+
+    public String dev(){
+
+        return "";
+    }
 }
