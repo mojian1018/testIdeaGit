@@ -17,4 +17,9 @@ public class helloGit {
 
         return "";
     }
+
+    public String clonePro(){
+        //这是克隆的项目
+        return "";
+    }
 }
