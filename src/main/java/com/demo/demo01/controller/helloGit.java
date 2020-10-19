@@ -17,7 +17,7 @@ public class helloGit {
 
         return "";
     }
-
+    //方法写的不错
     public String clonePro(){
         //这是克隆的项目
         return "";
