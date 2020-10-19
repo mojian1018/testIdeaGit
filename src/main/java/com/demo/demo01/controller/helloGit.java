@@ -12,4 +12,9 @@ public class helloGit {
 
         return "";
     }
+
+    public String master(){
+
+        return "";
+    }
 }
