@@ -1,8 +1,5 @@
 package com.demo.demo01.controller;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class helloGit {
 
 
@@ -17,6 +14,7 @@ public class helloGit {
     }
 
     public String master(){
+        Map map =new HashMap();
         List list=new ArrayList();
         return "";
     }
